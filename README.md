@@ -1,8 +1,8 @@
-# 🤖 AIML Journey
+# AIML Journey
 
 > A structured journey from Python fundamentals to Artificial Intelligence, Machine Learning, Generative AI, RAG, AI Agents, Deployment, Cloud and MLOps.
 
-## 🎯 Goal
+##  Goal
 
 The goal of this repository is to build strong practical knowledge in:
 
@@ -31,7 +31,7 @@ The focus is:
 
 ---
 
-# 🗺️ Learning Roadmap
+#  Learning Roadmap
 
 ## 01 — Python Fundamentals
 
